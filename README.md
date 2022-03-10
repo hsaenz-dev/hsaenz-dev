@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hector Saenz
-- 🌱 I’m currently learning Three.js, the javascript 3D library :D
+- 👀 I’m interested in create cool stuff
 - 📫 You can reach me via email hectors.digital@gmail.com
 
 <!---
